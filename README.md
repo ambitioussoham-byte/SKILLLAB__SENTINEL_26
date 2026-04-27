@@ -18,14 +18,6 @@ After forking this repository, rename it using the format:
 
 `SKILLLAB_PROR-2026-Sentinel`
 
-### Example
-
-`SKILLLAB_PROR-2026-AuroWizards`
-
-Do not keep the default repository name.
-
----
-
 # How to use this README
 
 This file is your team’s **working project document**.
@@ -268,13 +260,9 @@ Add a sketch with labels showing:
 
 | Component                 | Quantity | Purpose                               |
 | ------------------------- | --------:| ------------------------------------- |
-| `[ESP32]`                 | `1`      | `[Main controller]`                   |
-| `[L298N Motor Driver]`    | `1`      | `[Control Motors]`                    |
-| `[BO Motors]`             | `2`      | `[Rotate wheels]`                     |
-| `[Buck Converter]`        | `1`      | `[Power ESP32]`                       |
-| `[Li Ion Battery Pack]`   | `2`      | `[Power]`                             |
-| `[Projector]`             | `1`      | `[Display obstacles]`                 |
-| `Camera (Webcam / Phone)` | `1`      | `[Tracks car position using markers]` |
+| MPU6050                   | `1`      | `[Main controller]`                   |
+| Buzzer                    | `1`      | `[Control Motors]`                    |
+| Vibration motor           | `2`      | `[Rotate wheels]`                     |
 
 ## 8.2 Wiring Plan
 
