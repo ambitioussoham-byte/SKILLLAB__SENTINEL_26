@@ -63,9 +63,9 @@ Sentinel
 
 | Name            | Primary Role                    | Secondary Role   | Strengths Brought to the Project |
 | --------------  | ------------------------------- | --------------   | -------------------------------- |
-| Adarsh Gupta    | `[Electronics / Coding /`       | `Documentation`  | `Documentation, Gift of Gab `    |
+| Adarsh Gupta    | `[Electronics / Coding /`       | `Electronics`  | `Hardware `    |
 | Soham Gaonkar   | `[Electronics / Fabrication]`   | `[Coding]`       | `Material Handling, Hardware`    |
-| Lakshya Khatri  | `[Electronics / Fabrication]`   | `[Coding]`       | `Material Handling, Hardware`    |
+| Lakshya Khatri  | `[Electronics / Fabrication]`   | `[Documentation]`       | `Documentation, Hardware`    |
 | Jagrut Ahuja    | `[Electronics / Fabrication]`   | `[Coding]`       | `Material Handling, Hardware`    |
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a7685ca0-4b08-4dfb-97c6-f253ff8ace85" />
 
