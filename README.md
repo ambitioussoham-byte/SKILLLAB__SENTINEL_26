@@ -16,7 +16,7 @@
 
 After forking this repository, rename it using the format:
 
-`SKILLLAB_PROR-2026-TeamName`
+`SKILLLAB_PROR-2026-Sentinel`
 
 ### Example
 
@@ -57,18 +57,21 @@ By the final review, this README should clearly show:
 
 ## 1.1 Studio / Group Name
 
-`Project^2`
+Sentinel
 
 ## 1.2 Team Members
 
-| Name           | Primary Role                    | Secondary Role | Strengths Brought to the Project |
-| -------------- | ------------------------------- | -------------- | -------------------------------- |
-| `Gopalakrishnan` | `[Electronics / Coding / App ]` | `Documentation`  | `Documentation, Gift of Gab `|
-| `KAder Shaikh`  | `[Electronics / Fabrication]`   | `[Coding]`     | `Material Handling, Hardware`    |
+| Name            | Primary Role                    | Secondary Role   | Strengths Brought to the Project |
+| --------------  | ------------------------------- | --------------   | -------------------------------- |
+| Adarsh Gupta    | `[Electronics / Coding /`       | `Documentation`  | `Documentation, Gift of Gab `    |
+| Soham Gaonkar   | `[Electronics / Fabrication]`   | `[Coding]`       | `Material Handling, Hardware`    |
+| Lakshya Khatri  | `[Electronics / Fabrication]`   | `[Coding]`       | `Material Handling, Hardware`    |
+| Jagrut Ahuja    | `[Electronics / Fabrication]`   | `[Coding]`       | `Material Handling, Hardware`    |
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a7685ca0-4b08-4dfb-97c6-f253ff8ace85" />
 
 ## 1.3 Project Title
 
-`"Project Project"`
+Crash Guard Pro
 
 `(because Project-or)`
 
@@ -76,7 +79,7 @@ By the final review, this README should clearly show:
 
 ## 1.4 One-Line Pitch
 
-`A projected, fully customizable time portal where engineering education is done through PUBG battlefield in the comfort of our home`
+A smart helmet that keeps riders safe by detecting drowsiness in real time and instantly alerting for crashes when every second matters.
 
 ## 1.5 Expanded Project Idea
 
@@ -87,7 +90,9 @@ In 1–2 paragraphs, explain:
 - what technologies are involved.
 
 **Response:**  
-`A projected and fully customizable time portal can transform engineering education into an immersive PUBG-style battlefield experience from the comfort of home. In this environment, students can learn engineering concepts by entering a virtual battlefield where challenges, obstacles, and missions are designed around real technical problems. Instead of passively studying theory, learners actively apply concepts such as electronics, coding, sensors, robotics, mechanics, and system design to complete missions, solve problems, and progress through different levels. This approach makes engineering education more interactive, engaging, and practical by combining gaming, simulation, and hands-on problem-solving in a familiar and exciting format.`
+This project focuses on developing a smart helmet safety system designed to enhance rider safety through real-time monitoring and automated emergency response. The system uses sensors such as the MPU6050 to detect head movement and identify signs of drowsiness or sudden impact. An alcohol sensor is integrated to ensure that the rider is not under the influence before starting the vehicle. If unsafe conditions are detected, the system provides immediate alerts through vibration and audio feedback.
+
+In the event of an accident, the helmet acts as a black box and emergency system, automatically sending alerts to predefined contacts using a GSM module. The system can also log critical data for post-incident analysis. Additional communication modules such as Bluetooth or WiFi can be used for monitoring and future extensions. By combining embedded systems, sensors, and communication technologies, this project aims to create a low-cost, scalable solution for improving road safety, especially for two-wheeler riders.
 
 ---
 
